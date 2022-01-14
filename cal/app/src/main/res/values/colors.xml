@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    #user defined colors
+    <color name="gray">#6B6B6D</color>
+    <color name="whiteback">#D6D6D6</color>
+    <color name="buop">#F79261</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blackpurple">#462446</color>
+    <color name="whitepurple">#b05f6d</color>
+    <color name="orangepurple">#eb6b56</color>
+    <color name="yellow">#ffc153</color>
+</resources>

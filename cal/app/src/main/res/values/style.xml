@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+    <item name="colorAccent">@android:color/white</item>
+</style>
+    <style name="Button.blackpurple" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#462446</item>
+    </style>
+    <style name="Button.whitepurple" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#b05f6d</item>
+    </style>
+    <style name="Button.orangepurple" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#eb6b56</item>
+    </style>
+    <style name="Button.yellow" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">#ffc153</item>
+    </style>
+</resources>

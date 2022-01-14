@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260783798881",
+    "firebase_url": "https://ibde3-ce537-default-rtdb.firebaseio.com",
+    "project_id": "ibde3-ce537",
+    "storage_bucket": "ibde3-ce537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260783798881:android:f602aa68249b18b0530820",
+        "android_client_info": {
+          "package_name": "com.example.cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260783798881-peaak883unebm8ohe9jpus95nqv7ceg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfp0pqE3s9U9zB5Rhc-eox-E8lXiXc-tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260783798881-peaak883unebm8ohe9jpus95nqv7ceg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
